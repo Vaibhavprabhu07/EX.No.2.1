@@ -12,6 +12,7 @@ more)
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload
 
 PROCEDURE:
+
 STEP-1: Start the Sketch Command
 Select Sketch → Create Sketch from the toolbar.
 
